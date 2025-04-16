@@ -6,6 +6,7 @@
     <string name="blocklist">ブロックリスト</string>
     <string name="no_connected_devices">繋がってるデバイスはありません。</string>
     <string name="open_icon">開く</string>
+    <!-- dev.shadoe.delta.SoftApTile -->
     <!-- dev.shadoe.delta.blocklist.BlocklistScreen -->
     <string name="blocklist_none_blocked">ブロックされているデバイスはありません。</string>
     <string name="unblock_button">ブロック解除</string>
